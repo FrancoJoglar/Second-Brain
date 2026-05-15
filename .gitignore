@@ -1,0 +1,17 @@
+# Imágenes — se almacenan en Google Drive, no en Git
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.ico
+*.webp
+*.tiff
+*.tif
+*.heic
+*.heif
+*.raw
+*.psd
+*.ai
+*.eps
