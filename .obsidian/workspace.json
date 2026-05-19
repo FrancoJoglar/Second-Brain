@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📅 Bitácora/2026/05-Mayo/05- mayo.md",
+                "file": "👥 Personal/Maquinaria/Formato registro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05- mayo"
+              "title": "Formato registro"
             }
           }
         ]
@@ -194,11 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9c45a1c96b623f1",
+  "active": "df9b996f33f6dada",
   "lastOpenFiles": [
+    "📅 Bitácora/2026/05-Mayo/05- mayo.md",
+    "👥 Personal/Maquinaria/Formato registro.md",
+    "👥 Personal/Maquinaria/2026-05-12-Tractor-Coloso-Ariwl.md",
     "🌿 Riegos/Fallas/Roturas Cosecha",
     "Índice.md",
-    "📅 Bitácora/2026/05-Mayo/05- mayo.md",
     "🛠️ Soluciones/_index.md",
     "📸 Fotos/_index.md",
     "📦 Materiales/Proveedores/_index.md",
@@ -219,7 +221,6 @@
     "👥 Personal/Maquinaria/_index.md",
     "👥 Personal/Maquinaria",
     "👥 Personal/Externos/_index.md",
-    "👥 Personal/Externos",
     "👥 Personal/Coordinación/_index.md",
     "🌿 Riegos/Programación/_index.md",
     "🌿 Riegos/Mediciones/_index.md",
@@ -232,7 +233,6 @@
     "Proyectos/2026-05-19-Escritorio.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
-    "2026-05-19.md",
-    "Prueba sync.md"
+    "2026-05-19.md"
   ]
 }
