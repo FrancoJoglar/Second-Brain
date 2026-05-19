@@ -3,10 +3,10 @@
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 15,
   "autoPushInterval": 0,
-  "autoPullInterval": 0,
-  "autoPullOnBoot": false,
+  "autoPullInterval": 15,
+  "autoPullOnBoot": true,
   "autoCommitOnlyStaged": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -35,11 +35,6 @@
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
   "diffStyle": "split",
-  "hunks": {
-    "showSigns": false,
-    "hunkCommands": false,
-    "statusBar": "disabled"
-  },
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
@@ -63,5 +58,10 @@
     "ignoreWhitespace": false,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
+  },
+  "hunks": {
+    "showSigns": false,
+    "hunkCommands": false,
+    "statusBar": "disabled"
   }
 }
