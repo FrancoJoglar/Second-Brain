@@ -6,11 +6,11 @@ Cotización techado de tranques. Mano de obra, materiales, pensión.
 
 Regulación equipos 3,5 y 6.
 
-Reunion con tibox Carla.
+Reunión con tibox Carla.
 
 Pedir regulaciones a Global Riego.
 
-Gestionar compra de bandeja para embalse, instalacion Electrica Agronic.
+Gestionar compra de bandeja para embalse, instalación Eléctrica Agronic.
 
 Bandeja tipo rejilla ().
 
@@ -30,7 +30,7 @@ Material para pasada de canal en Kiwis.
 
 Eduardo ver cuándo empieza pasada de canal.
 
-Esperando materiales para reparación ctrol de heladas equipo 20. la otra semana miguel con horas extras para quedarse más tarde en control de heladas.
+Esperando materiales para reparación control de heladas equipo 20. la otra semana miguel con horas extras para quedarse más tarde en control de heladas.
 
 Retro lavado equipos 23 24 y 25. equipo 3 también.
 
@@ -65,3 +65,8 @@ Comprar bomba sumergible para embalse.
 Comprar retención duocheck de 6" para equipo 16
 
 Cambiar solenoides equipo 12 15 y 13 cambio de relé galit a solenoides con base, (sistema Azud).
+
+A al espera de cotizacion coplas Hidrostore Felipe Flores.
+
+Tag para miguel Vargas. personal y cuadrimoto.
+
