@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📅 Bitácora/2026/05-Mayo/2026-05-19-Bitácora.md",
+                "file": "📅 Bitácora/2026/05-Mayo/05- mayo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-19-Bitácora"
+              "title": "05- mayo"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Bitácora/2026/05-Mayo/2026-05-19-Bitácora.md",
+                "file": "📅 Bitácora/2026/05-Mayo/05- mayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 2026-05-19-Bitácora"
+              "title": "Enlaces entrantes de 05- mayo"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅 Bitácora/2026/05-Mayo/2026-05-19-Bitácora.md",
+                "file": "📅 Bitácora/2026/05-Mayo/05- mayo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 2026-05-19-Bitácora"
+              "title": "Enlaces salientes de 05- mayo"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅 Bitácora/2026/05-Mayo/2026-05-19-Bitácora.md",
+                "file": "📅 Bitácora/2026/05-Mayo/05- mayo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2026-05-19-Bitácora"
+              "title": "Esquema de 05- mayo"
             }
           },
           {
@@ -194,8 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df9b996f33f6dada",
+  "active": "f9c45a1c96b623f1",
   "lastOpenFiles": [
+    "📅 Bitácora/2026/05-Mayo/Sin título 1.md",
+    "📅 Bitácora/2026/05-Mayo/Sin título.md",
+    "📅 Bitácora/2026/05-Mayo/05- mayo.md",
     "Proyectos/Techado de tranques.md",
     "📅 Bitácora/2026/05-Mayo/2026-05-19-Bitácora.md",
     "📅 Bitácora/2026/05-Mayo",
