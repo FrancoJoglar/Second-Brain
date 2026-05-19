@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6926edd6cc8fd0fb",
+        "id": "fb4fb67177801a09",
         "type": "tabs",
         "children": [
           {
-            "id": "df9b996f33f6dada",
+            "id": "0c88566e3726d512",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛑 Roturas/Mayo.md",
+                "file": "👥 Personal/Maquinaria/Mayo.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Bitácora/2026/05-Mayo/05- mayo.md",
+                "file": "👥 Personal/Maquinaria/Mayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 05- mayo"
+              "title": "Enlaces entrantes de Mayo"
             }
           },
           {
@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,14 +193,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df9b996f33f6dada",
+  "active": "0c88566e3726d512",
   "lastOpenFiles": [
-    "To do.md",
-    "🛑 Roturas/Mayo.md",
-    "📦 Materiales/Inventario/Inventario 19-05-2026.md",
+    "👥 Personal/Maquinaria/Formato de Registro.md",
+    "👥 Personal/Maquinaria/Mayo.md",
     "👥 Personal/Maquinaria/Formato registro.md",
-    "🛑 Roturas",
+    "🛑 Roturas/Mayo.md",
     "👥 Personal/Maquinaria/Mayo 2026.md",
+    "📦 Materiales/Inventario/Inventario 19-05-2026.md",
+    "🛑 Roturas/Mayo 1.md",
+    "Sin título.md",
+    "To do.md",
+    "🛑 Roturas",
     "📅 Bitácora/2026/05-Mayo/05- mayo.md",
     "👥 Personal/Maquinaria/2026-05-12-Tractor-Coloso-Ariwl.md",
     "🌿 Riegos/Fallas/Roturas Cosecha",
@@ -228,10 +231,6 @@
     "🌿 Riegos/Programación/_index.md",
     "🌿 Riegos/Mediciones/_index.md",
     "🌿 Riegos/Fallas/_index.md",
-    "📅 Bitácora/2026/05-Mayo/Sin título 1.md",
-    "📅 Bitácora/2026/05-Mayo/Sin título.md",
-    "Proyectos/Techado de tranques.md",
-    "📅 Bitácora/2026/05-Mayo/2026-05-19-Bitácora.md",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]
