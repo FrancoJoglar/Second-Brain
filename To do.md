@@ -9,12 +9,12 @@
 - [ ] Cuantificar labores de externos. Precio y proyectar su uso para próxima temporada.
 - [ ] Persona para equipo de riego más moto. Moto como inversión. Cuanto va a ganar la persona nueva?.
 - [ ] Eduardo, mantención a compuerta que se va a automatizar.
-- [x] Material para pasada de canal en Kiwis.
-- [x] Eduardo ver cuándo empieza pasada de canal.
+- [ ] Material para pasada de canal en Kiwis.
+- [ ] Eduardo ver cuándo empieza pasada de canal.
 - [ ] Esperando materiales para reparación control de heladas equipo 20. la otra semana miguel con horas extras para quedarse más tarde en control de heladas.
 - [ ] Retro lavado equipos 23 24 y 25. equipo 3 también.
 - [ ] Instalación centro de control equipo de kiwis.
-- [x] Firmar reports Abril, Juan Miño
+- [ ] Firmar reports Abril, Juan Miño
 - [ ] Ver con Javier las mantenciones de bombas.
 - [ ] Bomba Equipo 5 con problemas, consumiendo más de lo que debería 20 amperes por sobre el nominal.
 - [ ] Retención equipo 5 cambiarla está en bodega la nueva.
@@ -22,7 +22,7 @@
 - [ ] Llamar a Erick, ver qué pasa con cotización de compuerta. Y con programadores de riego.
 - [ ] Buscar cotización válvula pataguas.
 - [ ] Buscar costo limpieza de tranques Pascual Palma.
-- [x] Martin Gatica. Preguntar por anillas para filtros Arkal. Preguntar también por cambio de relé Galit x bases de solenoide normales. (100 lucas x botella)
+- [ ] Martin Gatica. Preguntar por anillas para filtros Arkal. Preguntar también por cambio de relé Galit x bases de solenoide normales.
 - [ ] Ver instalación de segunda bomba de de achique para retro lavado en embalse.
 - [ ] Inventario por Manuel y Miguel
 - [ ] Orden de tuberías y acopio en llavearía.
