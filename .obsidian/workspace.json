@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c88566e3726d512",
+            "id": "abdaa29fb2164e86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👥 Personal/Maquinaria/Mayo.md",
+                "file": "👥 Personal/Maquinaria/Mayo 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mayo"
+              "title": "Mayo 2026"
+            }
+          },
+          {
+            "id": "a383f6e16c75b8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To do"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👥 Personal/Maquinaria/Mayo.md",
+                "file": "To do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Mayo"
+              "title": "Enlaces entrantes de To do"
             }
           },
           {
@@ -193,19 +208,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c88566e3726d512",
+  "active": "a383f6e16c75b8b4",
   "lastOpenFiles": [
-    "👥 Personal/Maquinaria/Formato de Registro.md",
-    "👥 Personal/Maquinaria/Mayo.md",
-    "👥 Personal/Maquinaria/Formato registro.md",
-    "🛑 Roturas/Mayo.md",
+    "conflict-files-obsidian-git.md",
+    "To do.md",
+    "Sin título.md",
     "👥 Personal/Maquinaria/Mayo 2026.md",
+    "👥 Personal/Maquinaria/Formato registro.md",
+    "🌿 Riegos/Programación/Sin título.md",
+    "👥 Personal/Maquinaria/Formato de Registro.md",
+    "📅 Bitácora/2026/05-Mayo/05- mayo.md",
+    "🛑 Roturas/Mayo.md",
+    "👥 Personal/Maquinaria/Mayo.md",
     "📦 Materiales/Inventario/Inventario 19-05-2026.md",
     "🛑 Roturas/Mayo 1.md",
-    "Sin título.md",
-    "To do.md",
     "🛑 Roturas",
-    "📅 Bitácora/2026/05-Mayo/05- mayo.md",
     "👥 Personal/Maquinaria/2026-05-12-Tractor-Coloso-Ariwl.md",
     "🌿 Riegos/Fallas/Roturas Cosecha",
     "Índice.md",
@@ -216,7 +233,7 @@
     "👥 Personal/Maquinaria",
     "🌿 Riegos/Equipos/_index.md",
     "👥 Personal/Asistencia/_index.md",
-    "🛠️ Soluciones",
+    "General",
     "📸 Fotos",
     "📦 Materiales/Inventario/_index.md",
     "📦 Materiales/Proveedores",
@@ -229,8 +246,6 @@
     "👥 Personal/Externos/_index.md",
     "👥 Personal/Coordinación/_index.md",
     "🌿 Riegos/Programación/_index.md",
-    "🌿 Riegos/Mediciones/_index.md",
-    "🌿 Riegos/Fallas/_index.md",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]

@@ -1,4 +1,4 @@
-Roturas en terreno
+Roturas Cosecha
 
 | Cantidad | Elemento                 | Fecha      | Equipo/sector      | Causa           | Reparado |
 | -------- | ------------------------ | ---------- | ------------------ | --------------- | -------- |

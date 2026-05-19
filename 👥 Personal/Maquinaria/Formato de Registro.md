@@ -1,7 +1,0 @@
-| Fecha      | Prestador        | Maquinaria                                                                 | Hrs o trato    | Labor                                                | Centro de costo      |
-| ---------- | ---------------- | -------------------------------------------------------------------------- | -------------- | ---------------------------------------------------- | -------------------- |
-| 22-05-2026 | Juan Miño        | Retroexcavadora, Excavadora, Yale, Miniexcavadora                          | 8              | Entrega de tubos para instalacion de riego por goteo | Plantacion Kiwi 2026 |
-|            | Sergio Castro    | Retroexcavadora, Excavadora, Yale, Miniexcavadora, Tractor, Coloso, Chofer | 9              |                                                      |                      |
-| 12-05-2026 | **Ariel Ponce**  | Tractor, Coloso                                                            | 8              |                                                      |                      |
-|            | Eduardo Castillo | Tractor, Coloso, Carro, Chofer                                             | 6              |                                                      |                      |
-| 19-05-2026 | **Toto**         | Tractor                                                                    | Por determinar | Instalación de riego en kiwi                         | Plantación Kiwi 2026 |
