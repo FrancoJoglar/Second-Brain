@@ -27,9 +27,8 @@
 - [ ] Ver instalación de segunda bomba de de achique para retro lavado en embalse.
 - [ ] Inventario por Manuel y Miguel
 - [ ] Orden de tuberías y acopio en llavearía.
-- [ ] Comprar bomba sumergible para embalse.
-- [ ] Comprar retención duocheck de 6" para equipo 16
+- [ ] Comprar bomba sumergible para embalse. (Einhell)
+- [ ] Comprar retención duocheck de 6" para equipo 16 (Solicitado a Jaime)
 - [ ] Cambiar solenoides equipo 12 15 y 13 cambio de relé galit a solenoides con base, (sistema Azud).
-- [ ] A al espera de cotizacion coplas Hidrostore Felipe Flores.
 - [ ] Tag para miguel Vargas. personal y cuadrimoto.
 
