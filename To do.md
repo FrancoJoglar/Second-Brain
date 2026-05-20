@@ -31,4 +31,6 @@
 - [ ] Comprar retención duocheck de 6" para equipo 16 (Solicitado a Jaime)
 - [ ] Cambiar solenoides equipo 12 15 y 13 cambio de relé galit a solenoides con base, (sistema Azud).
 - [ ] Tag para miguel Vargas. personal y cuadrimoto.
+- [ ] Pedir las Coplas 225 Alfa Riego
+
 

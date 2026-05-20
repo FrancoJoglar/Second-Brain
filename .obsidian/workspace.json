@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛑 Roturas/Mayo.md",
+                "file": "To do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mayo"
+              "title": "To do"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛑 Roturas/Mayo.md",
+                "file": "To do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Mayo"
+              "title": "Enlaces entrantes de To do"
             }
           },
           {
@@ -211,6 +211,7 @@
   },
   "active": "a383f6e16c75b8b4",
   "lastOpenFiles": [
+    "🛑 Roturas/Mayo.md",
     "To do.md",
     "conflict-files-obsidian-git.md",
     "Sin título.md",
@@ -219,7 +220,6 @@
     "🌿 Riegos/Programación/Sin título.md",
     "👥 Personal/Maquinaria/Formato de Registro.md",
     "📅 Bitácora/2026/05-Mayo/05- mayo.md",
-    "🛑 Roturas/Mayo.md",
     "👥 Personal/Maquinaria/Mayo.md",
     "📦 Materiales/Inventario/Inventario 19-05-2026.md",
     "🛑 Roturas/Mayo 1.md",
