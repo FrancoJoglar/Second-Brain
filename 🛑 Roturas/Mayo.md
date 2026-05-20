@@ -10,6 +10,8 @@ Roturas Cosecha
 | 1        | Valvula Electrica 2"     | 16-05-2026 | E17                | Cosecha Olivos  | si       |
 | 1        | Válvula Eléctrica 1 1/2" | 15-05-2026 | E15                | Cosecha Olivos  | si       |
 | 3        | Valvula Electrica "      | 14-05-2026 | E13                | Cosecha Olivos  | si       |
+| 1        | Valvula de aire          | 20-05-2026 | imp 10k - 8x8      | Cosecha Olivos  |          |
+
 Fallas Casetas y bombas
 
 | Elemento                 | Sector   | Falla                                                                                                                                             |
