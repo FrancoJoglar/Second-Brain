@@ -5,17 +5,17 @@ Roturas Cosecha
 | 1        | Hidrante                 | 19-05-2026 | imp mini - Embalse | moto aplicadora |          |
 | 1        | Valvulas de aire         | 18-05-2026 | E4                 | Cosecha Olivos  |          |
 | 1        | Hidrante                 | 18-05-2026 | E4                 | Cosecha Olivos  |          |
-| 1        | Válvula Electrica        | 18-05-2026 | E4                 | Cosecha Olivos  |          |
-| 1        | Valvula Electrica 3"     | 18-05-2026 | E19                | Cosecha Olivos  |          |
-| 1        | Valvula Electrica 2"     | 16-05-2026 | E17                | Cosecha Olivos  |          |
-| 1        | Válvula Eléctrica 1 1/2" | 15-05-2026 | E15                | Cosecha Olivos  |          |
-| 3        | Valvula Electrica "      | 14-05-2026 | E13                | Cosecha Olivos  |          |
+| 1        | Válvula Electrica        | 18-05-2026 | E4                 | Cosecha Olivos  | si       |
+| 1        | Valvula Electrica 3"     | 18-05-2026 | E19                | Cosecha Olivos  | si       |
+| 1        | Valvula Electrica 2"     | 16-05-2026 | E17                | Cosecha Olivos  | si       |
+| 1        | Válvula Eléctrica 1 1/2" | 15-05-2026 | E15                | Cosecha Olivos  | si       |
+| 3        | Valvula Electrica "      | 14-05-2026 | E13                | Cosecha Olivos  | si       |
 Fallas Casetas y bombas
 
 | Elemento                 | Sector   | Falla                                                                                                                                             |
 | ------------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bomba sumergible         | Embalse  | Bomba sumergible hace que se caiga el breaker.                                                                                                    |
-| Bomba sumergible Einhell | Embalse  | Hay que reemplazar esta bomba. un animal le comio los cables.                                                                                     |
+| Bomba sumergible Einhell | Embalse  | Hay que reemplazar esta bomba. un animal le comió los cables.                                                                                     |
 | Matriz Imp embalse       | Embalse  | - Matriz de 315mm se rompe cuando se hizo la zanja para la matriz del riego del equipo 26.<br>-A la espera de retiro de coplas 315mm por Rolando. |
 | Caudalimetro             | Pataguas | llena de agua la caja estanca que se instalo, llega el agua hasta las conexiones electricas.                                                      |
 | Caudalimetro             | 20k      | Caudalimetro funcionando de manera erratica. se abre la caja de dconexion y no se ve presencia de agua.                                           |

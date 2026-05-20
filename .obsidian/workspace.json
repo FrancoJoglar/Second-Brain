@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do.md",
+                "file": "🛑 Roturas/Mayo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To do"
+              "title": "Mayo"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do.md",
+                "file": "🛑 Roturas/Mayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de To do"
+              "title": "Enlaces entrantes de Mayo"
             }
           },
           {
@@ -205,13 +205,14 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "a383f6e16c75b8b4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "To do.md",
+    "conflict-files-obsidian-git.md",
     "Sin título.md",
     "👥 Personal/Maquinaria/Mayo 2026.md",
     "👥 Personal/Maquinaria/Formato registro.md",
