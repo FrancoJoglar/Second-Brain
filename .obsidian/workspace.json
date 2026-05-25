@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do.md",
+                "file": "📦 Materiales/Pedidos/Bandeja electrica actualizacion Agronic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To do"
+              "title": "Bandeja electrica actualizacion Agronic"
             }
           }
         ],
@@ -109,8 +109,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do.md",
-                "collapseAll": false,
+                "file": "📦 Materiales/Pedidos/Bandeja electrica actualizacion Agronic.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de To do"
+              "title": "Enlaces entrantes de Bandeja electrica actualizacion Agronic"
             }
           },
           {
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,9 +212,20 @@
   },
   "active": "a383f6e16c75b8b4",
   "lastOpenFiles": [
-    "📅 Bitácora/2026/05-Mayo/05- mayo.md",
     "🛑 Roturas/Mayo.md",
+    "Chapeta cobrizada bandeja malla, Mordaza (malla tierra).jpg",
+    "2512 Manual API Completa Agrónic V3 (1).pdf",
+    "Chapeta cobrizada bandeja malla, Mordaza (malla tierra) 1.jpg",
+    "📦 Materiales/Pedidos/Bandeja electrica actualizacion Agronic.md",
+    "soporte bandeja.jpg",
+    "Union bandeja malla 2.jpg",
+    "Tapa bandeja.jpg",
+    "Chapeta cobrizada bandeja malla, Mordaza (malla tierra) 3.jpg",
+    "Union bandeja malla 1.jpg",
+    "Union bandeja malla.jpg",
+    "Chapeta cobrizada bandeja malla, Mordaza (malla tierra) 2.jpg",
     "To do.md",
+    "📅 Bitácora/2026/05-Mayo/05- mayo.md",
     "conflict-files-obsidian-git.md",
     "Sin título.md",
     "👥 Personal/Maquinaria/Mayo 2026.md",
@@ -242,11 +254,8 @@
     "📦 Materiales/Pedidos",
     "📦 Materiales",
     "📚 Referencias/_index.md",
-    "📚 Referencias",
     "👥 Personal/Maquinaria/_index.md",
     "👥 Personal/Externos/_index.md",
-    "👥 Personal/Coordinación/_index.md",
-    "🌿 Riegos/Programación/_index.md",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]
