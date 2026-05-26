@@ -1,16 +1,11 @@
 - [ ] Comparativa alternativas automatización compuerta.
 - [ ] Cotización techado de tranques. Mano de obra, materiales, pensión.
-- [x] Regulación equipos 3,5 y 6. (Faltan datos en planilla)
 - [ ] Pedir regulaciones a Global Riego.
-- [x] Gestionar compra de bandeja para embalse, instalación Eléctrica Agronic.
 - [ ] Bandeja tipo rejilla  llega sin tapa ni uniones (cesar queda a cargo de ver que nos falta para el montage)
 - [ ] Cuantificar jornadas.
 - [ ] Cuantificar labores de externos. Precio y proyectar su uso para próxima temporada.
 - [ ] Persona para equipo de riego más moto. Moto como inversión. Cuanto va a ganar la persona nueva?.
 - [ ] Eduardo, mantención a compuerta que se va a automatizar.
-- [x] Material para pasada de canal en Kiwis.
-- [x] Eduardo ver cuándo empieza pasada de canal.
-- [x] Esperando materiales para reparación control de heladas equipo 20. la otra semana miguel con horas extras para quedarse más tarde en control de heladas.
 - [ ] Miguel Reparación ctrol Heladas 20-mayo
 - [ ] Retro lavado equipos 23 24 y 25. equipo 3 también.
 - [ ] Instalación centro de control equipo de kiwis.
@@ -29,8 +24,7 @@
 - [ ] Comprar bomba sumergible para embalse. (Einhell)
 - [ ] Comprar retención duocheck de 6" para equipo 16 (Solicitado a Jaime)
 - [ ] Cambiar solenoides equipo 12 15 y 13 cambio de relé galit a solenoides con base, (sistema Azud).
-- [ ] Tag para miguel Vargas. personal y cuadrimoto.
-- [ ] Pedir las Coplas 225 Alfa Riego
-- [ ] se pidio cotizacion a Andres Benedeti, sacando los estanques y cambiando el partidor suave, por estrella triangulo
+- [ ] se pidió cotización a Andrés Benedetti, sacando los estanques y cambiando el partidor suave, por estrella triangulo, hidrantes de plasson.
+- [ ] A la espera de datos de Marco Velasco, 
 
 
