@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛑 Roturas/Mayo.md",
+                "file": "📦 Materiales/Inventario/26-05-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mayo"
+              "title": "26-05-2026"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 454.5
   },
   "right": {
     "id": "840aae42c5d263ea",
@@ -212,6 +212,8 @@
   },
   "active": "a383f6e16c75b8b4",
   "lastOpenFiles": [
+    "🛑 Roturas/Mayo.md",
+    "📦 Materiales/Inventario/26-05-2026.md",
     "To do.md",
     "📦 Materiales/Pedidos/Bandeja electrica actualizacion Agronic.md",
     "2512 Manual API Completa Agrónic V3 (1).pdf",
@@ -223,7 +225,6 @@
     "Chapeta cobrizada bandeja malla, Mordaza (malla tierra) 3.jpg",
     "Chapeta cobrizada bandeja malla, Mordaza (malla tierra) 2.jpg",
     "Chapeta cobrizada bandeja malla, Mordaza (malla tierra) 1.jpg",
-    "🛑 Roturas/Mayo.md",
     "soporte bandeja.jpg",
     "Union bandeja malla 2.jpg",
     "Union bandeja malla 1.jpg",
