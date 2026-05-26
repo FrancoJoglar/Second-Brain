@@ -1,4 +1,3 @@
-- [ ] Cotizar cambio geomembrana Roberto Ossandón.
 - [ ] Comparativa alternativas automatización compuerta.
 - [ ] Cotización techado de tranques. Mano de obra, materiales, pensión.
 - [x] Regulación equipos 3,5 y 6. (Faltan datos en planilla)
@@ -32,5 +31,6 @@
 - [ ] Cambiar solenoides equipo 12 15 y 13 cambio de relé galit a solenoides con base, (sistema Azud).
 - [ ] Tag para miguel Vargas. personal y cuadrimoto.
 - [ ] Pedir las Coplas 225 Alfa Riego
+- [ ] se pidio cotizacion a Andres Benedeti, sacando los estanques y cambiando el partidor suave, por estrella triangulo
 
 
