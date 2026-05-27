@@ -14,7 +14,7 @@ Roturas Cosecha
 | 1        | Valvula descole          | 26-05-2026 | E3S1               | Cosecha Olivos    | deberia repararse 27-05 |
 | 1        | valvula electrica        | 26-05-2026 | E10S4              | Cosecha de Olivos | deberia repararse 27-05 |
 | 1        | Valvula de Aire          | 27-05-2026 | E3                 | Cosecha de Olivos | deberia repararse 27-05 |
-|          |                          |            |                    |                   |                         |
+| 1        | llave de Bola            | 27-05-2026 | E3                 | Cosecha Olivos    | Si                      |
 
 Fallas Casetas y bombas
 
