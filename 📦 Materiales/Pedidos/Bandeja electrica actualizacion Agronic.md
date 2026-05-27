@@ -7,7 +7,7 @@ si los tiene solo se debe pedir:
 - 12x Unión Bandeja malla 
  ![[Union bandeja malla 2.jpg|297]]
 - 4x Soporte para bandeja Eléctrica
-![[soporte bandeja.jpg|348]]
+![[soporte bandeja.jpg|315]]
 
 - 2x Tapa para bandeja de malla 200x100.
 - 10 metros alambre desnudo cobre 6mm.
