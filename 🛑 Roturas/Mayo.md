@@ -13,6 +13,8 @@ Roturas Cosecha
 | 1        | Valvula de aire          | 20-05-2026 | imp 10k - 8x8      | Cosecha Olivos    | Si                      |
 | 1        | Valvula descole          | 26-05-2026 | E3S1               | Cosecha Olivos    | deberia repararse 27-05 |
 | 1        | valvula electrica        | 26-05-2026 | E10S4              | Cosecha de Olivos | deberia repararse 27-05 |
+| 1        | Valvula de Aire          | 27-05-2026 | E3                 | Cosecha de Olivos | deberia repararse 27-05 |
+|          |                          |            |                    |                   |                         |
 
 Fallas Casetas y bombas
 
