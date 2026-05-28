@@ -10,4 +10,4 @@ si los tiene solo se debe pedir:
 ![[soporte bandeja.jpg|315]]
 
 - 2x Tapa para bandeja de malla 200x100.
-- 10 metros alambre desnudo cobre 6mm.
+- 50x  metros alambre desnudo cobre 6mm.
