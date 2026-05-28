@@ -1,20 +1,20 @@
 Roturas Cosecha
 
-| Cantidad | Elemento                 | Fecha      | Equipo/sector      | Causa             | Reparado                |
-| -------- | ------------------------ | ---------- | ------------------ | ----------------- | ----------------------- |
-| 1        | Hidrante                 | 19-05-2026 | imp mini - Embalse | moto aplicadora   | Si                      |
-| 1        | Valvulas de aire         | 18-05-2026 | E4                 | Cosecha Olivos    | si                      |
-| 1        | Hidrante                 | 18-05-2026 | E4                 | Cosecha Olivos    | si                      |
-| 1        | Válvula Electrica        | 18-05-2026 | E4                 | Cosecha Olivos    | si                      |
-| 1        | Valvula Electrica 3"     | 18-05-2026 | E19                | Cosecha Olivos    | si                      |
-| 1        | Valvula Electrica 2"     | 16-05-2026 | E17                | Cosecha Olivos    | si                      |
-| 1        | Válvula Eléctrica 1 1/2" | 15-05-2026 | E15                | Cosecha Olivos    | si                      |
-| 3        | Valvula Electrica "      | 14-05-2026 | E13                | Cosecha Olivos    | si                      |
-| 1        | Valvula de aire          | 20-05-2026 | imp 10k - 8x8      | Cosecha Olivos    | Si                      |
-| 1        | Válvula descole          | 26-05-2026 | E3S1               | Cosecha Olivos    | deberia repararse 27-05 |
-| 1        | valvula electrica        | 26-05-2026 | E10S4              | Cosecha de Olivos | deberia repararse 27-05 |
-| 1        | Valvula de Aire          | 27-05-2026 | E3                 | Cosecha de Olivos | SI                      |
-| 1        | llave de Bola            | 27-05-2026 | E3                 | Cosecha Olivos    | Si                      |
+| Cantidad | Elemento                 | Fecha      | Equipo/sector      | Causa             | Reparado                               |
+| -------- | ------------------------ | ---------- | ------------------ | ----------------- | -------------------------------------- |
+| 1        | Hidrante                 | 19-05-2026 | imp mini - Embalse | moto aplicadora   | Si                                     |
+| 1        | Valvulas de aire         | 18-05-2026 | E4                 | Cosecha Olivos    | si                                     |
+| 1        | Hidrante                 | 18-05-2026 | E4                 | Cosecha Olivos    | si                                     |
+| 1        | Válvula Electrica        | 18-05-2026 | E4                 | Cosecha Olivos    | si                                     |
+| 1        | Valvula Electrica 3"     | 18-05-2026 | E19                | Cosecha Olivos    | si                                     |
+| 1        | Valvula Electrica 2"     | 16-05-2026 | E17                | Cosecha Olivos    | si                                     |
+| 1        | Válvula Eléctrica 1 1/2" | 15-05-2026 | E15                | Cosecha Olivos    | si                                     |
+| 3        | Valvula Electrica "      | 14-05-2026 | E13                | Cosecha Olivos    | si                                     |
+| 1        | Valvula de aire          | 20-05-2026 | imp 10k - 8x8      | Cosecha Olivos    | Si                                     |
+| 1        | Válvula descole          | 26-05-2026 | E3S1               | Cosecha Olivos    | deberia repararse 27-05                |
+| 1        | valvula electrica        | 26-05-2026 | E10S4              | Cosecha de Olivos | Reparada, pendiente cambio de membrana |
+| 1        | Valvula de Aire          | 27-05-2026 | E3                 | Cosecha de Olivos | SI                                     |
+| 1        | llave de Bola            | 27-05-2026 | E3                 | Cosecha Olivos    | Si                                     |
 
 
 Fallas Casetas y bombas
