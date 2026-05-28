@@ -1,4 +1,4 @@
-revisar bandejas de embalse a ver si tienen el conductor de cobre y los soportes.
+   revisar bandejas de embalse a ver si tienen el conductor de cobre y los soportes.
 si los tiene solo se debe pedir:
 
 - 6x Chapeta cobrizada bandeja malla
